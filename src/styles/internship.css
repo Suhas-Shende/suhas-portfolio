@@ -1,0 +1,19 @@
+.intership-container{
+    width:400px;
+    margin: auto;
+    text-align: center;
+    
+}
+.heading{
+    color: rgb(13, 0, 255);
+    font-size: 40px;
+}
+.intership-container p{
+    font-size: 30px;
+    color:blueviolet;
+    font-weight: bolder;
+}
+.intership-container p b{
+    font-size: 27px;
+    color: rgb(199, 27, 67);
+}
