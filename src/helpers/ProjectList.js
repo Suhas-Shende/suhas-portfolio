@@ -6,9 +6,18 @@ import Proj5 from "../assets/amazon-clone.png";
  import Proj6 from "../assets/dogofetch.png";
 import Proj7 from "../assets/cash-register.png";
  import Proj8 from "../assets/lucky-birthday.png";
+ import Proj9 from "../assets/fetchAPI.png";
 
 export const ProjectList = [
   {
+    name: "Fetch API Web Application",
+    image: Proj9,
+    skills: "React js",
+    github: "https://github.com/Suhas-Shende/fetch-API",
+    website: "https://fetchapi-datatable-application.netlify.app/",
+    description:
+      "Fetch public API and showcase in datatable of material UI",
+  },{
     name: "Restaurant Web Application",
     image: Proj1,
     skills: "React js",
